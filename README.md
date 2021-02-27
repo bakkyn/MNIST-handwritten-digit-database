@@ -20,8 +20,8 @@ Test error on test set: 0.021700032949447667%
 Incorrect classified test samples with predicted labels
 ![alt text](https://github.com/bakkyn/MNIST-handwritten-digit-database/blob/main/result.png)
 
-You can also check the addresses below to get more information and use as a resource.
-[1] https://medium.com/@basu369victor/handwritten-digits-recognition-d3d383431845
-[2] https://gogul.dev/software/digits-recognition-mlp
-[3] http://yann.lecun.com/exdb/mnist/
+<br>You can also check the addresses below to get more information and use as a resource.
+<br>[1] https://medium.com/@basu369victor/handwritten-digits-recognition-d3d383431845
+<br>[2] https://gogul.dev/software/digits-recognition-mlp
+<br>[3] http://yann.lecun.com/exdb/mnist/
 
