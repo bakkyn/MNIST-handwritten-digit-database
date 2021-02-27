@@ -18,7 +18,7 @@ I bbuilted a simple Multi-Layer Perceptron (MLP) to recognize handwritten digit 
 Test error on test set: 0.021700032949447667%
 
 Incorrect classified test samples with predicted labels<br>
-<img src="https://github.com/bakkyn/MNIST-handwritten-digit-database/blob/main/result.png" alt="Smiley face" width="42" height="42" style="float:left">
+<img src="https://github.com/bakkyn/MNIST-handwritten-digit-database/blob/main/result.png" alt="Smiley face" width="300" height="300" style="float:left">
 
 <br>You can also check the addresses below to get more information and use as a resource.
 <br>[1] https://medium.com/@basu369victor/handwritten-digits-recognition-d3d383431845
