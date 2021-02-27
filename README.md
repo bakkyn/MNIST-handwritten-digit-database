@@ -13,11 +13,14 @@ Top error rate - 0.21 (achieved by CNN)
 Dataset size in Keras - 14.6 MB
 
 This assignment is suggested to complete on Google colab to benefit from its GPU support.
-I bbuilted a simple Multi-Layer Perceptron (MLP) to recognize handwritten digit (using MNIST dataset). The details and outputs avaliable in the .ipynb file.
+I builted a simple Multi-Layer Perceptron (MLP) to recognize handwritten digit (using MNIST dataset). The details and outputs avaliable in the .ipynb file.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Test error on test set: 0.021700032949447667%
 
-Incorrect classified test samples with predicted labels<br>
+Incorrect classified test samples with predicted labels: <br>
+
 <img src="https://github.com/bakkyn/MNIST-handwritten-digit-database/blob/main/result.png" alt="Smiley face" width="300" height="300" style="float:left">
 
 <br>You can also check the addresses below to get more information and use as a resource.
